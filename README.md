@@ -14,12 +14,12 @@ Traditional outdoor clothes drying is vulnerable to sudden weather changes. Rain
 
 ## ✨ Features
 
-- 🌦️ **Automatic rain detection** using a moisture sensor
-- 🛡️ **Auto‑deploying plastic cover** powered by motors and L293D motor driver
-- 🔥 **Infrared heat panels** (bulb‑based) to continue drying during rain
-- 🌤️ **Light detection via LDR** for environmental awareness
-- 🤖 **Fully autonomous operation** with Arduino Uno control
-- ⚡ **Real‑time response** to changing weather conditions
+- **Automatic rain condition detection** using a moisture sensor
+- **Auto‑deploying plastic cover** powered by motors and L293D motor driver
+- **Infrared heat panels** (bulb‑based) to continue drying during rain
+- **Light detection via LDR** for environmental awareness
+- **Fully autonomous operation** with Arduino Uno control
+- **Real‑time response** to changing weather conditions
 
 ---
 
@@ -46,7 +46,7 @@ Traditional outdoor clothes drying is vulnerable to sudden weather changes. Rain
 
 ---
 
-## 🛠️ Setup & Build
+## 🛠️ Setup & Build for Prototype
 
 ### 1. Hardware Assembly
 
